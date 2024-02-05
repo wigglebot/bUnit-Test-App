@@ -1,0 +1,7 @@
+D:\Backend Development Projects\TestingProject\TestProject\bin\Debug\net8.0\CoverletSourceRootsMapping_TestProject
+D:\Backend Development Projects\TestingProject\TestProject\obj\Debug\net8.0\TestProject.csproj.AssemblyReference.cache
+D:\Backend Development Projects\TestingProject\TestProject\obj\Debug\net8.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend Development Projects\TestingProject\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfoInputs.cache
+D:\Backend Development Projects\TestingProject\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfo.cs
+D:\Backend Development Projects\TestingProject\TestProject\obj\Debug\net8.0\TestProject.csproj.CoreCompileInputs.cache
+D:\Backend Development Projects\TestingProject\TestProject\obj\Debug\net8.0\TestProject.MvcApplicationPartsAssemblyInfo.cache
